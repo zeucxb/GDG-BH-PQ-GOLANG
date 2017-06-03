@@ -1,8 +1,8 @@
 package main
 
 import (
+	"GDG-BH-PQ-GOLANG/tasks"
 	"fmt"
-	"gdgbh/tasks"
 )
 
 func main() {
